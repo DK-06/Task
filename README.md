@@ -1,6 +1,6 @@
 # Task
 #include<stdio.h>
-int main()
+#int main()
 {
 int num,start=0;
 scanf("%d",&num);
